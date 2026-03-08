@@ -1,2 +1,2 @@
-Hello, this is my first repo!
-I learned how to use branches!
+I learned how to use branches! (version B)
+
